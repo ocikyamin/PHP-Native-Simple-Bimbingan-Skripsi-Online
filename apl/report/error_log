@@ -1,0 +1,1 @@
+[16-Dec-2021 11:54:42 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/bimb9238/public_html/apl/report/perpanjangansk_print.php on line 38

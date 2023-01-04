@@ -1,0 +1,79 @@
+.btn.btn-file {
+  overflow: hidden;
+  position: relative;
+}
+
+.btn.btn-file > input[type="file"] {
+  background-color: #fff;
+  cursor: inherit;
+  display: block;
+  font-size: 100px;
+  min-height: 100%;
+  min-width: 100%;
+  opacity: 0;
+  outline: none;
+  position: absolute;
+  right: 0;
+  text-align: right;
+  top: 0;
+}
+.mailbox-attachments {
+  padding-left: 0;
+  list-style: none;
+}
+
+.mailbox-attachments li {
+  border: 1px solid #eee;
+  float: left;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  width: 200px;
+}
+
+.mailbox-attachment-name {
+  color: #666;
+  font-size: 11px;
+  font-weight: 100;
+}
+
+.mailbox-attachment-icon,
+.mailbox-attachment-info,
+.mailbox-attachment-size {
+  display: block;
+}
+
+.mailbox-attachment-info {
+  background-color: #f8f9fa;
+  padding: 10px;
+}
+
+.mailbox-attachment-size {
+  color: #999;
+  font-size: 12px;
+}
+
+.mailbox-attachment-size > span {
+  display: inline-block;
+  padding-top: 0.75rem;
+}
+
+.mailbox-attachment-icon {
+  color: #666;
+  font-size: 65px;
+  max-height: 132.5px;
+  padding: 20px 10px;
+  text-align: center;
+}
+
+.mailbox-attachment-icon.has-img {
+  padding: 0;
+}
+
+.mailbox-attachment-icon.has-img > img {
+  height: auto;
+  max-width: 100%;
+}
+.pesan-view {
+  inline-size: 1000px;
+  overflow-wrap: break-word;
+}

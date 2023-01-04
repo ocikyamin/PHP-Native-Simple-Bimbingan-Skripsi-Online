@@ -1,0 +1,7 @@
+[07-Jun-2021 15:56:37 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'bimb9238_bimtauser'@'localhost' (using password: YES) in /home/bimb9238/public_html/config/databases.php on line 8
+[07-Jun-2021 15:56:44 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'bimb9238_bimtauser'@'localhost' (using password: YES) in /home/bimb9238/public_html/config/databases.php on line 8
+[07-Jun-2021 15:56:44 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/bimb9238/public_html/start/index.php on line 39
+[07-Jun-2021 15:56:44 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/bimb9238/public_html/start/index.php on line 40
+[07-Jun-2021 15:56:54 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'bimb9238_bimtauser'@'localhost' (using password: YES) in /home/bimb9238/public_html/config/databases.php on line 8
+[07-Jun-2021 15:56:54 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/bimb9238/public_html/start/index.php on line 39
+[07-Jun-2021 15:56:54 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/bimb9238/public_html/start/index.php on line 40
